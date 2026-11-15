@@ -9,7 +9,7 @@ Personal portfolio website of **Yogi Karena** — Software Development Intern Ca
 
 ## 📂 Project Structure
 - `index.html` - Primary portfolio entry point (ready for GitHub Pages / Netlify / Vercel hosting)
-- `yogi-karena-portfolio (6).html` - Source portfolio document
+- `yogi-karena-portfolio.html` - Source portfolio document
 
 ## 🌐 Live Preview
 You can deploy this directly via **GitHub Pages**:
